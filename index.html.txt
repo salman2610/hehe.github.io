@@ -1,0 +1,1729 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Sesame Technologies Pvt Ltd | Software development company | India and USA</title>
+  <meta name="description" content="Sesame Technologies Pvt Ltd is an Leading Software Development Company. Let us help you transform your ideas into reality with our expertise. Get Started Today">
+  <meta name="keywords" content="Sesame Technologies, Digital Solutions, Web Development">
+  <link rel="shortcut icon" href="https://www.sesametechnologies.net/assets/img/favicon/favicon.ico">
+  <link rel="icon" type="image/png" sizes="16x16" href="https://www.sesametechnologies.net/assets/img/favicon/favicon-16x16.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="https://www.sesametechnologies.net/assets/img/favicon/favicon-32x32.png">
+  <meta property="og:url" content="https://www.sesametechnologies.net/">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Sesame Technologies Pvt Ltd">
+  <meta property="og:description" content="Sesame Technologies Pvt Ltd is an Leading Software Development Company. Let us help you transform your ideas into reality with our expertise. Get Started Today">
+  <meta property="og:image" content="https://www.sesametechnologies.net/assets/img/og/preview.jpg">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta property="twitter:domain" content="sesametechnologies.net">
+  <meta property="twitter:url" content="https://www.sesametechnologies.net/">
+  <meta name="twitter:title" content="Sesame Technologies Pvt Ltd">
+  <meta name="twitter:description" content="Sesame Technologies Pvt Ltd is an Leading Software Development Company. Let us help you transform your ideas into reality with our expertise. Get Started Today">
+  <meta name="twitter:image" content="https://www.sesametechnologies.net/assets/img/og/preview.jpg">
+  <meta name="google-site-verification" content="xH3qteSWnPNVfbzfvmKPxdCr7RK7sj5btBK9z3EHe0g" />
+  <link rel="canonical" href="https://www.sesametechnologies.net/">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/plugins.min.css" media="all">
+  <link rel="stylesheet" href="assets/css/app.min.css" media="all">
+  <link rel="stylesheet" href="assets/css/icon.min.css" media="all"><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-56758480-1"></script>
+  <script type="application/ld+json">
+    {
+    "@context": "https://schema.org/",
+    "@type": "WebSite",
+    "name": "Sesame technologies",
+    "url": "https://www.sesametechnologies.net/",
+    "potentialAction": {
+    "@type": "SearchAction",
+    "target": "{search_term_string}",
+    "query-input": "required name=search_term_string"
+    }
+    }
+    </script>
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Sesame Technologies Pvt. Ltd",
+  "url": "https://www.sesametechnologies.net/",
+  "logo": "https://www.sesametechnologies.net/assets/img/logo/logo.webp",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+91 9349138146",
+    "contactType": "sales",
+    "areaServed": ["US","IN"],
+    "availableLanguage": "en"
+  },
+  "sameAs": [
+    "https://www.facebook.com/Sesametech/",
+    "https://www.linkedin.com/company/sesame-technologies-pvt-ltd/"
+  ]
+}
+</script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-56758480-1');
+  </script>
+  <script src="https://www.google.com/recaptcha/api.js?render=6LcqZOYUAAAAAM9g0MCCZqEmuAq8lMqfguvyW9z5"></script>
+  <script>
+    grecaptcha.ready(function() {
+      grecaptcha.execute('6LcqZOYUAAAAAM9g0MCCZqEmuAq8lMqfguvyW9z5', {
+        action: 'contact'
+      }).then(function(token) {
+        document.getElementById('g-recaptcha-response').value = token;
+      });
+    });
+  </script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NVDPPZDZ');</script>
+<!-- End Google Tag Manager -->
+
+</head>
+
+<body class="homepage">
+    
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NVDPPZDZ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+  <header>
+    <div class="container">
+      <div class="top-bar">
+        <a href="index">
+          <img src="assets/img/logo/logo.webp" alt="Sesame Technologies Pvt Ltd">
+        </a>
+        <div class="contact-info">
+          <a href="tel:+919349138146">
+            <i class="icon-phone"></i>+919349138146
+          </a>
+          <a href="mailto:info@sesametechnologies.net">
+            <i class="icon-envelope"></i>info@sesametechnologies.net
+          </a>
+        </div>
+      </div>
+      <div class="menu-bar">
+        <button class="main-nav-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#main-nav">
+          <span></span>
+        </button>
+        <div class="offcanvas offcanvas-end main-menu-wrpr" id="main-nav">
+          <div class="offcanvas-header">
+            <div class="hotspot">
+              <a href="index">
+                <img src="assets/img/logo/logo.webp" alt="Sesame Technologies Pvt Ltd">
+              </a>
+              <button type="button" class="btn-close" data-bs-dismiss="offcanvas"></button>
+            </div>
+          </div>
+          <div class="offcanvas-body">
+            <nav class="primary-menu">
+              <ul>
+                <li>
+                  <a href="index">Home</a>
+                </li>
+                <li>
+                  <a href="about-us">About Us</a>
+                </li>
+                <li class="sub-nav">
+                  <a href="javascript:void(0)">Services</a>
+                  <div class="sub-nav-wrpr">
+                    <div class="row justify-content-center w-100">
+                      <div class="col-lg">
+                        <ul>
+                          <li class="dropdown">
+                            <a href="cyber-security" class="sub-cat">Cyber Security</a>
+                            <h6 data-bs-toggle="dropdown">Cyber Security</h6>
+                            <ul class="dropdown-menu">
+                              <li>
+                                <a class="dropdown-item" href="cyber-security#website-audits">Website Audits</a>
+                              </li>
+                              <li>
+                                <a class="dropdown-item" href="cyber-security#compliance-audits">Compliance Audits</a>
+                              </li>
+                              <li>
+                                <a class="dropdown-item" href="cyber-security#assessments">Assessments</a>
+                              </li>
+                              <li>
+                                <a class="dropdown-item" href="cyber-security#remediation">Remediation</a>
+                              </li>
+                              <li>
+                                <a class="dropdown-item" href="cyber-security#enterprise-security">Enterprise Security</a>
+                              </li>
+                              <li>
+                                <a class="dropdown-item" href="cyber-security#security-consulting">Security Consulting</a>
+                              </li>
+                              <li>
+                                <a class="dropdown-item" href="cyber-security#managed-security-services">Managed Security Services</a>
+                              </li>
+                              <li>
+                                <a class="dropdown-item" href="cyber-security#cloud-security">Cloud Security</a>
+                              </li>
+                            </ul>
+                          </li>
+                        </ul>
+                      </div>
+                      <div class="col-lg">
+                        <ul>
+                          <li class="dropdown">
+                            <a href="https://www.sesametechnologies.net/ecommerce-development-services/" target="_blank" class="sub-cat">E-commerce</a>
+                            <h6 data-bs-toggle="dropdown">E-commerce</h6>
+                            <ul class="dropdown-menu">
+                              <li class="divider">In-house Solutions</li>
+                              <li>
+                                <a class="dropdown-item" href="https://www.sesametechnologies.net/ecommerce-development-services/" target="_blank">E-commerce Website Development</a>
+                              </li>
+                              <li>
+                                <a class="dropdown-item" href="e-commerce#real-time-billing-inventory-accounting">Real Time Billing, Inventory & Accounting</a>
+                              </li>
+                              <li>
+                                <a class="dropdown-item" href="e-commerce#api-integrations">API Integrations</a>
+                              </li>
+                              <li>
+                                <a class="dropdown-item" href="e-commerce#data-analytics">Data Analytics</a>
+                              </li>
+                              <li>
+                                <a class="dropdown-item" href="e-commerce#performance-optimization">Performance Optimization</a>
+                              </li>
+                              <li>
+                                <a class="dropdown-item" href="e-commerce#recommendation-engines">Recommendation Engines</a>
+                              </li>
+                              <li>
+                                <a class="dropdown-item" href="e-commerce#hosting-services">Hosting Services</a>
+                              </li>
+                              <li>
+                                <a class="dropdown-item" href="e-commerce#maintenance-support">Maintenance & Support</a>
+                              </li>
+                              <li class="divider">Platform-based Services</li>
+                              <li>
+                                <a class="dropdown-item" href="e-commerce#shopify-site-development">Shopify Site Development</a>
+                              </li>
+                              <li>
+                                <a class="dropdown-item" href="e-commerce#shopify-theme-customization">Shopify Theme Customization</a>
+                              </li>
+                              <li>
+                                <a class="dropdown-item" href="e-commerce#shopify-connected-mobile-apps">Shopify Connected Mobile Apps</a>
+                              </li>
+                              <li>
+                                <a class="dropdown-item" href="e-commerce#woo-commerce">Woo Commerce</a>
+                              </li>
+                              <li>
+                                <a class="dropdown-item" href="e-commerce#open-cart">Open Cart</a>
+                              </li>
+                              <li>
+                                <a class="dropdown-item" href="e-commerce#cs-cart">CS Cart</a>
+                              </li>
+                            </ul>
+                          </li>
+                        </ul>
+                      </div>
+                      <div class="col-lg">
+                        <ul>
+                          <li class="dropdown">
+                            <a href="https://www.sesametechnologies.net/website-design-and-development/" target="_blank" class="sub-cat">Web Solutions</a>
+                            <h6 data-bs-toggle="dropdown">Web Solutions</h6>
+                            <ul class="dropdown-menu">
+                              <li>
+                                <a class="dropdown-item" href="web-solutions#website-designing">Website Designing</a>
+                              </li>
+                              <li>
+                                <a class="dropdown-item" href="web-solutions#website-development">Website Development</a>
+                              </li>
+                              <li>
+                                <a class="dropdown-item" href="web-solutions#portal-development">Portal Development</a>
+                              </li>
+                              <li>
+                                <a class="dropdown-item" href="web-solutions#web-based-applications">Web Based Applications</a>
+                              </li>
+                              <li>
+                                <a class="dropdown-item" href="web-solutions#hosting">Hosting</a>
+                              </li>
+                              <li>
+                                <a class="dropdown-item" href="web-solutions#domain-name-registration">Domain Name Registration</a>
+                              </li>
+                              <li>
+                                <a class="dropdown-item" href="web-solutions#email-solutions">Email Solutions</a>
+                              </li>
+                              <li>
+                                <a class="dropdown-item" href="web-solutions#ssl">SSLs</a>
+                              </li>
+                              <li>
+                                <a class="dropdown-item" href="web-solutions#website-analytics">Website Analytics</a>
+                              </li>
+                              <li>
+                                <a class="dropdown-item" href="web-solutions#seo">SEO</a>
+                              </li>
+                            </ul>
+                          </li>
+                        </ul>
+                      </div>
+                      <div class="col-lg">
+                        <ul>
+                          <li class="dropdown">
+                            <a href="mobile-solutions" class="sub-cat">Mobile Solutions</a>
+                            <h6 data-bs-toggle="dropdown">Mobile Solutions</h6>
+                            <ul class="dropdown-menu">
+                              <li>
+                                <a class="dropdown-item" href="mobile-solutions#mobile-applications">Mobile Applications</a>
+                              </li>
+                              <li>
+                                <a class="dropdown-item" href="mobile-solutions#mobile-ui-designing">Mobile UI Designing</a>
+                              </li>
+                            </ul>
+                          </li>
+                        </ul>
+                      </div>
+                      <div class="col-lg">
+                        <ul>
+                          <li class="dropdown">
+                            <a href="it-consulting" class="sub-cat">IT Consulting</a>
+                            <h6 data-bs-toggle="dropdown">IT Consulting</h6>
+                            <ul class="dropdown-menu">
+                              <li>
+                                <a class="dropdown-item" href="it-consulting">Software Project Development</a>
+                              </li>
+                              <li>
+                                <a class="dropdown-item" href="https://www.sesametechnologies.net/software-development-outsourcing-services/"  target="_blank">Software Outsourcing Services</a>
+                              </li>
+                              <li>
+                                <a class="dropdown-item" href="it-consulting">SDLC</a>
+                              </li>
+                              <li>
+                                <a class="dropdown-item" href="it-consulting">Feasibility Study</a>
+                              </li>
+                              <li>
+                                <a class="dropdown-item" href="it-consulting">Design & Documentation</a>
+                              </li>
+                              <li>
+                                <a class="dropdown-item" href="it-consulting">Implementation & Training</a>
+                              </li>
+                              <li>
+                                <a class="dropdown-item" href="it-consulting">Methodology</a>
+                              </li>
+                              <li>
+                                <a class="dropdown-item" href="it-consulting">DB Optimization</a>
+                              </li>
+                              <li>
+                                <a class="dropdown-item" href="it-consulting">Data Architecting</a>
+                              </li>
+                              <li>
+                                <a class="dropdown-item" href="it-consulting">BI & DW</a>
+                              </li>
+                              <li>
+                                <a class="dropdown-item" href="it-consulting">IT Strategy</a>
+                              </li>
+                              <li>
+                                <a class="dropdown-item" href="it-consulting">Data Security</a>
+                              </li>
+                            </ul>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+                <li class="sub-nav">
+                  <a href="products">Products</a>
+                  <div class="sub-nav-wrpr">
+                    <div class="row justify-content-center w-100">
+                      <div class="col-lg">
+                        <ul>
+                          <li>
+                            <a href="products#bespos">
+                              <span class="d-block">Bespos</span>
+                              <span>Cloud-based software for managing billing, inventory, and accounts across multiple retail outlets like supermarkets, groceries, and canteens</span>
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                      <div class="col-lg">
+                        <ul>
+                          <li>
+                            <a href="products#soukhya">
+                              <span class="d-block">Soukhya</span>
+                              <span>Comprehensive pharmacy software for billing, inventory, and accounts with real-time data, managing multiple outlets from a central location</span>
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                      <div class="col-lg">
+                        <ul>
+                          <li>
+                            <a href="products#sescan">
+                              <span class="d-block">SeSCAN</span>
+                              <span>Proven web-based software for managing MRI scan centres, enabling centralized control of multiple locations under the same company</span>
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                      <div class="col-lg">
+                        <ul>
+                          <li>
+                            <a href="products#selab">
+                              <span class="d-block">SeLAB</span>
+                              <span>Proven lab management software for labs of all sizes, offering online result downloads and easy day-to-day operations management.</span>
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                      <div class="col-lg">
+                        <ul>
+                          <li>
+                            <a href="products#seclinic">
+                              <span class="d-block">SeCLINIC</span>
+                              <span>Clinic management software for polyclinics to efficiently handle patient registration, diagnosis, prescriptions, and doctor management with ease</span>
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                      <div class="col-lg">
+                        <ul>
+                          <li>
+                            <a href="products#check-out">
+                              <span class="d-block">Checkout</span>
+                              <span>Order booking system for showrooms, exhibitions, and worksites—ideal for tiles, sanitaryware, furniture, steel doors, and product companies</span>
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+                <li>
+                  <a href="industries">Industries</a>
+                </li>
+                <li>
+                  <a href="clients">Clients</a>
+                </li>
+                <li>
+                  <a href="technologies">Technologies</a>
+                </li>
+                <li>
+                  <a href="contact">Contact</a>
+                </li>
+              </ul>
+            </nav>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>  <section class="banner">
+    <div id="mainBanner" class="carousel slide carousel-fade" data-bs-ride="carousel" data-bs-pause="false">
+      <div class="carousel-inner">
+        <div class="carousel-item active" data-bs-interval="10000">
+          <picture>
+            <source media="(max-width:767px)" srcset="uploads/home/banner/bnr-mob-01.webp" type="image/webp">
+            <source srcset="uploads/home/banner/bnr-01.webp" type="image/webp">
+            <img src="uploads/home/banner/bnr-01.webp" alt="">
+          </picture>
+          <div class="carousel-caption">
+            <h1>Software Development Company in India</h1>
+            <h2>Empower Your Brand with Custom eCommerce Solutions</h2>
+            <p>Since 2000, Sesame Technologies has been helping brands overcome online challenges with smart, custom ecommerce solutions that drive real results.</p>
+            <a href="javascript:void(0)" class="contact-btn-popup btn btn-lg btn-primary">Get a Free Consultation</a>
+            <a href="e-commerce" class="btn btn-lg btn-outline-primary">Read More</a>
+          </div>
+        </div>
+        <div class="carousel-item" data-bs-interval="10000">
+          <picture>
+            <source media="(max-width:767px)" srcset="uploads/home/banner/bnr-mob-06.webp" type="image/webp">
+            <source srcset="uploads/home/banner/bnr-06.webp" type="image/webp">
+            <img src="uploads/home/banner/bnr-06.webp" alt="">
+          </picture>
+          <div class="carousel-caption">
+            <h2>HiRIZE is a Solution Stack Which Elevate Builders Digitally</h2>
+            <p>HiRIZE combines digital, software, design, web, construction, and cybersecurity expertise into one powerful solution.</p>
+            <a href="javascript:void(0)" class="contact-btn-popup btn btn-lg btn-primary">Get a Free Consultation</a>
+            <a href="cyber-security" class="btn btn-lg btn-outline-primary">Read More</a>
+          </div>
+        </div>
+        <div class="carousel-item" data-bs-interval="10000">
+          <picture>
+            <source media="(max-width:767px)" srcset="uploads/home/banner/bnr-mob-02.webp" type="image/webp">
+            <source srcset="uploads/home/banner/bnr-02.webp" type="image/webp">
+            <img src="uploads/home/banner/bnr-02.webp" alt="">
+          </picture>
+          <div class="carousel-caption">
+            <h2>Experienced Cybersecurity Consultation and Services</h2>
+            <p>We've shielded brands from cyber threats with proactive monitoring, advanced threat detection, and tailored defense strategies.</p>
+            <a href="javascript:void(0)" class="contact-btn-popup btn btn-lg btn-primary">Get a Free Consultation</a>
+            <a href="cyber-security" class="btn btn-lg btn-outline-primary">Read More</a>
+          </div>
+        </div>
+        <div class="carousel-item" data-bs-interval="10000">
+          <picture>
+            <source media="(max-width:767px)" srcset="uploads/home/banner/bnr-mob-03.webp" type="image/webp">
+            <source srcset="uploads/home/banner/bnr-03.webp" type="image/webp">
+            <img src="uploads/home/banner/bnr-03.webp" alt="">
+          </picture>
+          <div class="carousel-caption">
+            <h2>Start Your Digital Transformation with Expert Web Developers</h2>
+            <p>Grow Your Business with Expert Web Development Since 2000.</p>
+            <a href="javascript:void(0)" class="contact-btn-popup btn btn-lg btn-primary">Get a Free Consultation</a>
+            <a href="web-solutions" class="btn btn-lg btn-outline-primary">Read More</a>
+          </div>
+        </div>
+        <div class="carousel-item" data-bs-interval="10000">
+          <picture>
+            <source media="(max-width:767px)" srcset="uploads/home/banner/bnr-mob-04.webp" type="image/webp">
+            <source srcset="uploads/home/banner/bnr-04.webp" type="image/webp">
+            <img src="uploads/home/banner/bnr-04.webp" alt="">
+          </picture>
+          <div class="carousel-caption">
+            <h2>Innovative Mobile Solutions for Modern Brands</h2>
+            <p>Trusted by over 550 clients worldwide, Sesame Technologies ensures reliable, high-quality mobile experiences that drive engagement and growth.</p>
+            <a href="javascript:void(0)" class="contact-btn-popup btn btn-lg btn-primary">Get a Free Consultation</a>
+            <a href="mobile-solutions" class="btn btn-lg btn-outline-primary">Read More</a>
+          </div>
+        </div>
+        <div class="carousel-item" data-bs-interval="10000">
+          <picture>
+            <source media="(max-width:767px)" srcset="uploads/home/banner/bnr-mob-05.webp" type="image/webp">
+            <source srcset="uploads/home/banner/bnr-05.webp" type="image/webp">
+            <img src="uploads/home/banner/bnr-05.webp" alt="">
+          </picture>
+          <div class="carousel-caption">
+            <h2>Expert IT Consulting for Smarter Business Decisions</h2>
+            <p>Streamline your business with expert consulting services.</p>
+            <a href="javascript:void(0)" class="contact-btn-popup btn btn-lg btn-primary">Get a Free Consultation</a>
+            <a href="it-consulting" class="btn btn-lg btn-outline-primary">Read More</a>
+          </div>
+        </div>
+      </div>
+      <button class="carousel-control-prev" type="button" data-bs-target="#mainBanner" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+      </button>
+      <button class="carousel-control-next" type="button" data-bs-target="#mainBanner" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+      </button>
+    </div>
+  </section>
+  <section class="intro-sec">
+    <div class="container">
+      <div class="row">
+        <div class="col-12 clients-sec">
+          <h4 class="theme-ttl">750+ Clients from 13 Countries trusted us for finding the right solution..!</h4>
+          <div class="clients-sldr">
+            <div class="client-item">
+              <img src="assets/img/clients/addprint.webp" alt="Our Clients">
+            </div>
+            <div class="client-item">
+              <img src="assets/img/clients/crescent-solitaire.webp" alt="Our Clients">
+            </div>
+            <div class="client-item">
+              <img src="assets/img/clients/dr-shaji.webp" alt="Our Clients">
+            </div>
+            <div class="client-item">
+              <img src="assets/img/clients/futrol.webp" alt="Our Clients">
+            </div>
+            <div class="client-item">
+              <img src="assets/img/clients/gomosafer.webp" alt="Our Clients">
+            </div>
+            <div class="client-item">
+              <img src="assets/img/clients/gtec-in.webp" alt="Our Clients">
+            </div>
+            <div class="client-item">
+              <img src="assets/img/clients/hyson.webp" alt="Our Clients">
+            </div>
+            <div class="client-item">
+              <img src="assets/img/clients/mnz.webp" alt="Our Clients">
+            </div>
+            <div class="client-item">
+              <img src="assets/img/clients/malabar.webp" alt="Our Clients">
+            </div>
+            <div class="client-item">
+              <img src="assets/img/clients/milma.webp" alt="Our Clients">
+            </div>
+            <div class="client-item">
+              <img src="assets/img/clients/lamit.webp" alt="Our Clients">
+            </div>
+            <div class="client-item">
+              <img src="assets/img/clients/cuirass.webp" alt="Our Clients">
+            </div>
+            <div class="client-item">
+              <img src="assets/img/clients/sreekanth.webp" alt="Our Clients">
+            </div>
+            <div class="client-item">
+              <img src="assets/img/clients/aswani.webp" alt="Our Clients">
+            </div>
+            <div class="client-item">
+              <img src="assets/img/clients/bmh.webp" alt="Our Clients">
+            </div>
+            <div class="client-item">
+              <img src="assets/img/clients/kabani.webp" alt="Our Clients">
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row justify-content-center about-sec">
+        <div class="col-md-10">
+          <h2 class="theme-ttl">Trusted Software Development Company for Custom IT Solutions</h2>
+          <p>Looking for a reliable software development company in India that understands your business challenges and delivers high-quality digital solutions? At Sesame Technologies, we specialize in helping India and US businesses with scalable and secure technology.</p>
+          <a href="https://wa.me/919349138146?text=Hello%20!" title="WhatsApp" target="_blank" class="btn btn-secondary"><i class="icon-calendar"></i>Schedule a Meeting</a>
+        </div>
+      </div>
+      <div class="row align-items-center company-txt">
+        <div class="col-md-6">
+          <img src="assets/img/home/intro.webp" alt="About us thumbnail">
+        </div>
+        <div class="col-md-6">
+          <div class="txt-wrp">
+            <h2 class="theme-ttl">About<br>Sesame Technologies Pvt. Ltd</h2>
+            <p>Sesame Technologies Pvt. Ltd. is a trusted software development company based in Kerala, India, with over 25 years of experience delivering smart IT solutions. We’ve successfully completed 1300+ projects for 750+ clients across 13 countries, offering unmatched value in E-commerce, Web and Mobile Development, Cyber Security, Data Analytics, and IT Consulting.</p>
+            <a href="about-us" class="btn btn-primary">Read More</a>
+          </div>
+        </div>
+      </div>
+      <div class="row count-sec">
+        <div class="col-6 col-lg-3">
+          <div class="count-item">
+            <strong>25+<i class="icon-expertise"></i></strong>
+            <p>Years of Excellence</p>
+          </div>
+        </div>
+        <div class="col-6 col-lg-3">
+          <div class="count-item">
+            <strong>750+ <i class="icon-customer"></i></strong>
+            <p>Clients</p>
+          </div>
+        </div>
+        <div class="col-6 col-lg-3">
+          <div class="count-item">
+            <strong>1300+ <i class="icon-projects"></i></strong>
+            <p>Projects</p>
+          </div>
+        </div>
+        <div class="col-6 col-lg-3">
+          <div class="count-item">
+            <strong>13 <i class="icon-countrys"></i></strong>
+            <p>Countries</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="hirize-sec">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-md-6">
+        <img src="assets/img/home/hirize-tmb.webp" alt="Hirize">
+      </div>
+      <div class="col-md-6">
+        <h3 class="theme-ttl"><strong>HiRI<span>Z</span>E</strong> is a solution stack which elevate builders digitally</h3>
+        <p>HiRIZE is a combination of solutions formulated by Digital Marketing experts, Software application developers, Designing experts, Web & Mobile solution experts, Building & Construction segment domain experts and Cyber security experts.</p>
+        <div class="btn-wrpr">
+          <a href="javascript:void(0)" class="btn btn-lg btn-primary contact-btn-popup">Get a Free Consultation</a>
+          <a href="javascript:void(0)" class="btn btn-lg btn-outline-primary">Read More</a>
+          <hr>
+          <a href="javascript:void(0)" class="btn-download">Download Brochure<i class="icon-download"></i></a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+  <section class="srvc-sec">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <h2 class="theme-ttl">Our Software Development Services</h2>
+          <div class="srvc-content">
+            <ul class="nav nav-pills d-none d-lg-flex">
+              <li class="nav-item">
+                <button class="nav-link active" data-bs-toggle="tab" data-bs-target="#srvc-tab-01">Cyber Security</button>
+              </li>
+              <li class="nav-item">
+                <button class="nav-link" data-bs-toggle="tab" data-bs-target="#srvc-tab-02">E-commerce</button>
+              </li>
+              <li class="nav-item">
+                <button class="nav-link" data-bs-toggle="tab" data-bs-target="#srvc-tab-03">Web Solutions</button>
+              </li>
+              <li class="nav-item">
+                <button class="nav-link" data-bs-toggle="tab" data-bs-target="#srvc-tab-04">Mobile Solutions</button>
+              </li>
+              <li class="nav-item">
+                <button class="nav-link" data-bs-toggle="tab" data-bs-target="#srvc-tab-05">IT Consulting</button>
+              </li>
+            </ul>
+            <div class="tab-content accordion" id="srvc-tab-data">
+              <div class="tab-pane fade show active accordion-item" id="srvc-tab-01">
+                <h2 class="accordion-header d-lg-none">
+                  <button class="accordion-button" data-bs-toggle="collapse" data-bs-target="#srvc-col-01">Cyber Security</button>
+                </h2>
+                <div id="srvc-col-01" class="accordion-collapse collapse show d-lg-block" data-bs-parent="#srvc-tab-data">
+                  <div class="accordion-body">
+                    <h3>Cyber Security Services and Solutions</h3>
+                    <p>We help businesses safeguard their digital assets with advanced cyber security services and solutions. Our team ensures protection from malware, data breaches, and online threats using proactive risk assessment and real-time monitoring systems.</p>
+                    <ul>
+                      <li>Website Audits</li>
+                      <li>Enterprise Security</li>
+                      <li>Security Consulting</li>
+                      <li>Compliance Audits</li>
+                      <li>Managed Security Services</li>
+                      <li>Cloud Security</li>
+                      <li>Assessments</li>
+                      <li>Remediation</li>
+                    </ul>
+                    <a href="javascript:void(0)" class="contact-btn-popup btn btn-secondary">Start Your Project Today</a>
+                     <a href="cyber-security" class="btn btn-primary">Read more</a>
+                  </div>
+                </div>
+              </div>
+              <div class="tab-pane fade accordion-item" id="srvc-tab-02">
+                <h2 class="accordion-header d-lg-none">
+                  <button class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#srvc-col-02">E-commerce</button>
+                </h2>
+                <div id="srvc-col-02" class="accordion-collapse collapse d-lg-block" data-bs-parent="#srvc-tab-data">
+                  <div class="accordion-body">
+                    <h3>Ecommerce Development Services</h3>
+                    <p>Our ecommerce development services are tailored for businesses looking to scale online. From building custom shopping carts to secure payment gateways, we help you create smooth and secure digital storefronts that convert. </p>
+                    <ul>
+                      <li>Shopify Site Development</li>
+                      <li>E-commerce Website Development</li>
+                      <li>Woo Commerce</li>
+                      <li>Real Time Billing, Inventory & Accounting</li>
+                      <li>Performance Optimization</li>
+                      <li>Data Analytics</li>
+                      <li>Maintenance & Support</li>
+                      <li>Open Cart and CS cart</li>
+                    </ul>
+                   <a href="javascript:void(0)" class="contact-btn-popup btn btn-secondary">Start Your Project Today</a>
+                     <a href="e-commerce" class="btn btn-primary">Read more</a>
+                  </div>
+                </div>
+              </div>
+              <div class="tab-pane fade accordion-item" id="srvc-tab-03">
+                <h2 class="accordion-header d-lg-none">
+                  <button class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#srvc-col-03">Web Solutions</button>
+                </h2>
+                <div id="srvc-col-03" class="accordion-collapse collapse d-lg-block" data-bs-parent="#srvc-tab-data">
+                  <div class="accordion-body">
+                    <h3>Website Development and Designing Services</h3>
+                    <p>Create stunning and user-centric websites with our expert website development and designing services. Whether it’s a corporate site, landing page, or CMS platform, we focus on responsive design, UX/UI, and fast loading speed.</p>
+                    <ul>
+                      <li>Website designing</li>
+                      <li>Website development</li>
+                      <li>Portal Development</li>
+                      <li>Web based applications</li>
+                      <li>SEO services</li>
+                      <li>Website Analytics</li>
+                      <li>Hosting</li>
+                      <li>Domain Name Registration</li>
+                    </ul>
+                   <a href="javascript:void(0)" class="contact-btn-popup btn btn-secondary">Start Your Project Today</a>
+                     <a href="web-solutions" class="btn btn-primary">Read more</a>
+                  </div>
+                </div>
+              </div>
+              <div class="tab-pane fade accordion-item" id="srvc-tab-04">
+                <h2 class="accordion-header d-lg-none">
+                  <button class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#srvc-col-04">Mobile Solutions</button>
+                </h2>
+                <div id="srvc-col-04" class="accordion-collapse collapse d-lg-block" data-bs-parent="#srvc-tab-data">
+                  <div class="accordion-body">
+                    <h3>Mobile App Development Services</h3>
+                    <p>Stay connected with your customers on the go through our mobile app development services. We build native and hybrid apps with powerful features and seamless functionality for both iOS and Android platforms.</p>
+                    <ul>
+                      <li>Mobile Applications</li>
+                      <li>Mobile UI Designing</li>
+                      <li>Core Mobile Development Services</li>
+                      <li>Specialized Solutions</li>
+                      <li>Industry-Specific Apps</li>
+                      <li>Support & Optimization</li>
+                      <li>App Store Optimization (ASO)</li>
+                      <li>Cross-Platform Development</li>
+                    </ul>
+                    <a href="javascript:void(0)" class="contact-btn-popup btn btn-secondary">Start Your Project Today</a>
+                     <a href="mobile-solutions" class="btn btn-primary">Read more</a>
+                  </div>
+                </div>
+              </div>
+              <div class="tab-pane fade accordion-item" id="srvc-tab-05">
+                <h2 class="accordion-header d-lg-none">
+                  <button class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#srvc-col-05">IT Consulting</button>
+                </h2>
+                <div id="srvc-col-05" class="accordion-collapse collapse d-lg-block" data-bs-parent="#srvc-tab-data">
+                  <div class="accordion-body">
+                    <h3>IT Consulting Service</h3>
+                    <p>Need expert tech guidance? Our IT consulting service supports your business with digital transformation, technology planning, and cost-effective IT roadmaps tailored to your goals.</p>
+                    <ul>
+                      <li>IT Strategy</li>
+                      <li>Methodology</li>
+                      <li>Implementation & Training</li>
+                      <li>Data Security</li>
+                      <li>Feasibility Study</li>
+                      <li>Data Architecting</li>
+                      <li>Design & Documentation</li>
+                      <li>IT Budgeting</li>
+                    </ul>
+                   <a href="javascript:void(0)" class="contact-btn-popup btn btn-secondary">Start Your Project Today</a>
+                     <a href="it-consulting" class="btn btn-primary">Read more</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="indus-sec">
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-md-8 text-center">
+          <h2 class="theme-ttl">Industries We Work With as a Leading Software Development Firm</h2>
+          <p>As the best software development company, we have developed our expertise across different sectors to offer our clients genuinely effective solutions and insightful advice.</p>
+        </div>
+      </div>
+      <div class="row justify-content-center">
+        <div class="col-md-6 col-lg-4 d-flex">
+          <div class="card indus-card">
+            <div class="card-body">
+              <i class="icon-bell-concierge"></i>
+              <h4>Hospitality</h4>
+              <p>From managing bookings to improving guest experience, we provide software solutions for hospitality environment to automate operations and boost customer satisfaction.</p>
+            </div>
+            <a href="industries#hospitality">Read More</a>
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-4 d-flex">
+          <div class="card indus-card">
+            <div class="card-body">
+              <i class="icon-helmet-safety"></i>
+              <h4>Builders and Developers</h4>
+              <p>We tackle issues like project delays and manual tracking with smart software solutions for construction industry, enabling efficient resource management and real-time updates.</p>
+            </div>
+            <a href="industries#construction">Read More</a>
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-4 d-flex">
+          <div class="card indus-card">
+            <div class="card-body">
+              <i class="icon-money-bill-transfer"></i>
+              <h4>NBFC</h4>
+              <p>Our software solutions for NBFC industry address challenges like loan processing delays and compliance. We build secure platforms for faster approvals and better risk analysis.</p>
+            </div>
+            <a href="industries#nbfc">Read More</a>
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-4 d-flex">
+          <div class="card indus-card">
+            <div class="card-body">
+              <i class="icon-shop"></i>
+              <h4>Retail</h4>
+              <p>With growing online and offline demands, we offer custom software solutions for retailers to manage inventory, POS systems, and customer engagement across channels.</p>
+            </div>
+            <a href="industries#retail">Read More</a>
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-4 d-flex">
+          <div class="card indus-card">
+            <div class="card-body">
+              <i class="icon-building-columns"></i>
+              <h4>Co-operative Banking</h4>
+              <p>Facing legacy system issues? Our custom software solutions for co-operative banks improve member services, automate transactions, and ensure secure data handling.</p>
+            </div>
+            <a href="industries#co-operative-banking">Read More</a>
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-4 d-flex">
+          <div class="card indus-card">
+            <div class="card-body">
+              <i class="icon-stethoscope"></i>
+              <h4>Health Care</h4>
+              <p>We deliver reliable software solutions for health care providers, enabling smooth patient management, secure health records, and telehealth integration.</p>
+            </div>
+            <a href="industries#health-care">Read More</a>
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-4 d-flex">
+          <div class="card indus-card">
+            <div class="card-body">
+              <i class="icon-industry-windows"></i>
+              <h4>Manufacturing</h4>
+              <p>Streamline your operations with our software solutions for manufacturing companies that support production planning, inventory tracking, and real-time analytics.</p>
+            </div>
+            <a href="industries#manufacturing">Read More</a>
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-4 d-flex">
+          <div class="card indus-card">
+            <div class="card-body">
+              <i class="icon-graduation-cap"></i>
+              <h4>Education</h4>
+              <p>Addressing hybrid learning needs, our software solutions for education help institutions manage online classes, student records, and assessments effectively.</p>
+            </div>
+            <a href="industries#education">Read More</a>
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-4 d-flex">
+          <div class="card indus-card">
+            <div class="card-body">
+              <i class="icon-plane"></i>
+              <h4>Travel</h4>
+              <p>The travel industry today is powered by a variety of digital solutions designed to enhance customer experiences, streamline operations, and maximize revenue.</p>
+            </div>
+            <a href="industries#travel">Read More</a>
+          </div>
+        </div>
+      </div>
+      <div class="row justify-content-center mt-4">
+        <div class="col-md-8 text-center">
+         <a href="https://wa.me/919349138146" target="_blank" class="btn btn-secondary">Talk With Our Executive</a>
+        </div>
+      </div>
+       
+    </div>
+  </section>
+  <section class="tech-sec">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12 mb-3">
+          <h2 class="theme-ttl">Technologies We Master</h2>
+          <p>Technologies We Use in Our Software Development Services</p>
+        </div>
+      </div>
+      <div class="row tech-sldr g-3">
+        <div class="col-md-2 col-6">
+           <div class="tech-item">
+              <img src="assets/img/tech/01.webp" alt="Technology">
+            </div>
+        </div>
+        <div class="col-md-2 col-6">
+            <div class="tech-item">
+              <img src="assets/img/tech/02.webp" alt="Technology">
+            </div>
+        </div>
+<div class="col-md-2 col-6">
+ <div class="tech-item">
+              <img src="assets/img/tech/03.webp" alt="Technology">
+            </div>
+</div>
+<div class="col-md-2 col-6">
+<div class="tech-item">
+              <img src="assets/img/tech/04.webp" alt="Technology">
+            </div>
+</div>
+<div class="col-md-2 col-6">
+ <div class="tech-item">
+              <img src="assets/img/tech/05.webp" alt="Technology">
+            </div>
+</div>
+<div class="col-md-2 col-6">
+<div class="tech-item">
+              <img src="assets/img/tech/06.webp" alt="Technology">
+            </div>
+</div>
+<div class="col-md-2 col-6">
+<div class="tech-item">
+              <img src="assets/img/tech/07.webp" alt="Technology">
+            </div>
+</div>
+<div class="col-md-2 col-6">
+<div class="tech-item">
+              <img src="assets/img/tech/08.webp" alt="Technology">
+            </div>
+</div>
+<div class="col-md-2 col-6">
+ <div class="tech-item">
+              <img src="assets/img/tech/09.webp" alt="Technology">
+            </div>
+</div>
+        <div class="col-md-2 col-6">
+            <div class="tech-item">
+              <img src="assets/img/tech/10.webp" alt="Technology">
+            </div>
+        </div>
+        <div class="col-md-2 col-6">
+            <div class="tech-item">
+              <img src="assets/img/tech/11.webp" alt="Technology">
+            </div>
+        </div>
+         <div class="col-md-2 col-6">
+            <div class="tech-item">
+              <img src="assets/img/tech/12.webp" alt="Technology">
+            </div>
+        </div>
+
+
+
+        <div class="col-12">
+
+          <div class="">
+          
+          
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="case-sec">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <h2 class="theme-ttl">Our Software Development Case Studies</h2>
+          <p class="text-center">Transforming Ideas Into Scalable Software Solutions</p>
+          <div class="case-sldr">
+            <div class="case-item">
+              <div class="case-data">
+                <h2>Customized Software Application for a leading Hospital's Anesthesia Department.</h2>
+                <p>One of the leading Hospitals in Kerala was trying to find a software solution for managing their anesthesia department. They couldn't find an exactly matching standard product and hence decided to go for a customized solution. Team Sesame took up the assignment and developed a tailor-made solution to solve this customer pain and it was successfully installed.</p>
+                <p>
+                  <strong>Outcome:</strong> With this bespoke solution customer was able to save 90% of their manual efforts in managing the department.
+                </p>
+              </div>
+              <img src="assets/img/case-study/01.webp" alt="">
+            </div>
+            <div class="case-item">
+              <div class="case-data">
+                <h2>Automated Solution for a leading MRI scanning centre in Kerala.</h2>
+                <p>A leading diagnostic center in Kerala, required a modern technology platform to automate their scanning services, manage appointments efficiently, and enhance patient engagement. Their existing system lacked dynamic content management and digital capabilities. Team Sesame stepped in to design and develop a fully automated solution with dynamic service listings, integrated appointment forms, and a user-friendly admin panel for content management and reporting.</p>
+                <p>
+                  <strong>Outcome:</strong> With this custom-built application, the client achieved a 70% reduction in manual handling of inquiries and updates, significantly faster appointment bookings, and seamless online report delivery. The optimized performance and mobile responsiveness further improved user experience and operational efficiency.
+                </p>
+              </div>
+              <img src="assets/img/case-study/02.webp" alt="">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="data-info-sec">
+    <div class="container">
+      <div class="row align-items-center">
+        <div class="col-md-7">
+          <h2 class="theme-ttl">How to Scale Your Software Budget with Strategic IT Consultation</h2>
+          <p>Optimize Costs & Performance with Sesame Technologies’ Custom Software Development Services</p>
+          <p>Partnering with Sesame Technologies allows you to maximize your software development investment. Our approach includes:</p>
+        </div>
+        <div class="col-md-5">
+          <img src="assets/img/shapes/business-plan.svg" alt="">
+        </div>
+        <div class="col-12">
+          <ul>
+            <li>
+              <i class="icon-gear-complex"></i>
+              <p>
+                <strong>Tailored Solutions:</strong> We design software that fits your unique business needs, avoiding unnecessary features and costs.
+              </p>
+            </li>
+            <li>
+              <i class="icon-rotate"></i>
+              <p>
+                <strong>Agile Methodology:</strong> Our iterative development process ensures timely delivery and adaptability to changing requirements.
+              </p>
+            </li>
+            <li>
+              <i class="icon-money-bill-wave"></i>
+              <p>
+                <strong>Transparent Pricing:</strong> We provide clear cost structures, helping you plan and manage your budget effectively.
+              </p>
+            </li>
+            <li>
+              <i class="icon-handshake-angle"></i>
+              <p>
+                <strong>Ongoing Support:</strong> Post-deployment, we offer maintenance and updates to keep your software running smoothly.
+              </p>
+            </li>
+          </ul>
+          <p>By choosing Sesame Technologies, you gain a software development company dedicated to delivering value and efficiency.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="block-side">
+    <div class="container-fluid p-0">
+      <div class="row g-0">
+        <div class="col-md-12 col-lg-6 prtnr-wrp">
+          <div class="prtnr-data ">
+            <h2 class="theme-ttl">Solution Partners</h2>
+            <div class="row prtnr-sldr">
+              <div class="col-md-2 col-6">
+                 <div class="card">
+                  <img src="assets/img/partners/aws.svg" alt="Solution Partners">
+                </div>
+              </div>
+              <div class="col-md-2 col-6">
+                <div class="card">
+                  <img src="assets/img/partners/google-cloud.svg" alt="Solution Partners">
+                </div>
+              </div>
+              <div class="col-md-2 col-6">
+                <div class="card">
+                  <img src="assets/img/partners/cloudflare.svg" alt="Solution Partners">
+                </div>
+              </div>
+              <div class="col-md-2 col-6">
+                <div class="card">
+                  <img src="assets/img/partners/digitalocean.svg" alt="Solution Partners">
+                </div>
+              </div>
+              <div class="col-md-2 col-6">
+                <div class="card">
+                  <img src="assets/img/partners/vultr.svg" alt="Solution Partners">
+                </div>
+              </div>
+              <div class="col-md-2 col-6">
+                <div class="card">
+                  <img src="assets/img/partners/akamai.svg" alt="Solution Partners">
+                </div>
+              </div>
+              <div class="col-md-2 col-6">
+                <div class="card">
+                  <img src="assets/img/partners/hostgator.svg" alt="Solution Partners">
+                </div>
+              </div>
+              <div class="col-md-2 col-6">
+                <div class="card">
+                  <img src="assets/img/partners/microsoft.svg" alt="Solution Partners">
+                </div>
+              </div>
+              <div class="col-md-2 col-6">
+                <div class="card">
+                  <img src="assets/img/partners/adobe.svg" alt="Solution Partners">
+                </div>
+              </div>
+              <div class="col-md-2 col-6">
+                <div class="card">
+                  <img src="assets/img/partners/resellerclub.svg" alt="Solution Partners">
+                </div>
+              </div>
+              <div class="col-md-2 col-6">
+                <div class="card">
+                  <img src="assets/img/partners/flywheel.svg" alt="Solution Partners">
+                </div>
+              </div>
+              <div class="col-md-2 col-6">
+                <div class="card">
+                  <img src="assets/img/partners/hostinger.svg" alt="Solution Partners">
+                </div>
+              </div>
+            </div>
+          </div>
+        
+        </div>
+        <div class="col-md-12 col-lg-6 testi-wrp">
+          <div class="testi-data">
+            <h2 class="theme-ttl">What Our Clients Say</h2>
+            <div class="testi-sldr">
+              <div class="testi-item">
+                <p>Thank you for your team for making an excellent website to portray my business activities. And happy that you stick to the time frame, even after some delays from my side.</p>
+                <div class="profile">
+                  <picture>
+                    <img src="assets/img/default/murali.jpg" alt="">
+                  </picture>
+                  <div class="data">
+                    <p>Muraleemanohar<small>Managing Partner - Farm Tech Consultancy</small>
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div class="testi-item">
+                <p>Thanks a lot, Sesame team! You guys are awesome!</p>
+                <div class="profile">
+                  <picture>
+                    <img src="assets/img/default/profile.webp" alt="">
+                  </picture>
+                  <div class="data">
+                    <p>Malvika Bawri<small>Co-Founder - Quantta Analytics</small>
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div class="testi-item">
+                <p>Recently I had reached out to team sesame technologies for putting up a website. The objective of which was to showcase Indian Industrial AI companies to customers in San Francisco, Berlin, Tokyo, Geneva, Houston & Norway. The resulting website has been extremely well received by the likes of Amazon Robotics, Shell, ABB, Siemens, Mercedes Benz, Airbus etc. A big thanks to Team SESAME.</p>
+                <div class="profile">
+                  <picture>
+                    <img src="assets/img/default/derick-jose.jpg" alt="">
+                  </picture>
+                  <div class="data">
+                    <p>Derick Jose<small>Co-founder - Flutura , Houston</small>
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div class="testi-item">
+                <p>Sesame has developed the websites of our 4 companies perfectly and we recommend this team</p>
+                <div class="profile">
+                  <picture>
+                    <img src="assets/img/default/profile.webp" alt="">
+                  </picture>
+                  <div class="data">
+                    <p>Favas. K<small>Branding Officer - Lamit Group</small>
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div class="testi-item">
+                <p>We have had the pleasure of working with Sesame technologies on setting up a large index for social media content. Right from the requirements analysis to final delivery of the work, they were very professional with documenting and communicating the progress on a daily basis and worked very efficiently. I can recommend their service with confidence.</p>
+                <div class="profile">
+                  <picture>
+                    <img src="assets/img/default/profile.webp" alt="">
+                  </picture>
+                  <div class="data">
+                    <p>Suresh Akula<small>Director, Big Data Solutions - VOZIQ</small>
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div class="testi-item">
+                <p>We have engaged Sesame for developing our Online Visa Information System and Sesame Developed a very useful system for us. It helped us to save a lot of time and also to centralise our data which now is able to access from all our branches.We are able to serve our customers more easily and quickly.</p>
+                <div class="profile">
+                  <picture>
+                    <img src="assets/img/default/profile.webp" alt="">
+                  </picture>
+                  <div class="data">
+                    <p>Syed O C<small>Comfort Travels</small>
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div class="testi-item">
+                <p>I have connected with sesame technologies for doing my web portal and they have done a wonderful job for me. I recommend these young and talented team.</p>
+                <div class="profile">
+                  <picture>
+                    <img src="assets/img/default/profile.webp" alt="">
+                  </picture>
+                  <div class="data">
+                    <p>Ashok K Jain<small>Marunouchi</small>
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div class="testi-item">
+                <p>Sesame has supported us in setting up an analytical dash board on top of our booking data. They are excellent team to depend for data analytics.</p>
+                <div class="profile">
+                  <picture>
+                    <img src="assets/img/default/firos-nattu.jpg" alt="">
+                  </picture>
+                  <div class="data">
+                    <p>Firos Nattu<small>Gomosafer.com</small>
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div class="testi-item">
+                <p>Extremely happy with how the website has turned out! The final result exceeded expectations, thanks to the combined efforts of the Sesame team. Their professionalism ensured I didn’t have to worry about a thing. I truly appreciate the support and look forward to continuing our work together.</p>
+                <div class="profile">
+                  <picture>
+                    <img src="assets/img/default/dr-sreekanth.jpg" alt="">
+                  </picture>
+                  <div class="data">
+                    <p>Dr.Sreekanth Karat<small>Director, Dr. Sreekanth Eye Care and Research Centre</small>
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div class="testi-item">
+                <p>Sesame has set up a niche skill team for developing a new product for our company and they managed it as a captive development centre for a period of 3 years. Their support and efforts were excellent.</p>
+                <div class="profile">
+                  <picture>
+                    <img src="assets/img/default/ramesh-mahalingham.jpg" alt="">
+                  </picture>
+                  <div class="data">
+                    <p>Ramesh Mahalingham<small>VMWARE</small>
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="data-info-sec">
+    <div class="container">
+      <div class="row align-items-center">
+        <div class="col-md-5">
+          <img src="assets/img/shapes/code-review.svg" alt="">
+        </div>
+        <div class="col-md-7">
+          <h2 class="theme-ttl">What Does a Software Development Company Do?</h2>
+          <p>A software development company like Sesame Technologies specializes in creating, deploying, and maintaining software applications tailored to business needs. Our services encompass:</p>
+        </div>
+        <div class="col-12">
+          <ul>
+            <li>
+              <i class="icon-browser"></i>
+              <p><strong>Custom Software Development:</strong> Building applications from the ground up to solve specific business problems.</p>
+            </li>
+            <li>
+              <i class="icon-laptop-code"></i>
+              <p><strong>System Integration:</strong> Ensuring new software works seamlessly with existing systems.</p>
+            </li>
+            <li>
+              <i class="icon-user-gear"></i>
+              <p><strong>Software Consulting:</strong> Providing expert advice on technology strategies and solutions.</p>
+            </li>
+            <li>
+              <i class="icon-headset"></i>
+              <p><strong>Maintenance & Support:</strong> Offering ongoing assistance to keep software up-to-date and functional.</p>
+            </li>
+          </ul>
+          <p>By collaborating with a software development company, businesses can leverage technology to drive growth and innovation.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="news-sec">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <h3 class="theme-ttl">Explore Insights and Expert Tips in Our Latest Blogs!</h3>
+          <div id="news-container">
+
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="faq-sec">
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-md-12 col-lg-10">
+          <h2 class="theme-ttl">Frequently Asked Questions (FAQs)</h2>
+          <div class="accordion" id="faqWrp">
+            <div class="accordion-item">
+              <h2 class="accordion-header">
+                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#faq-01">What industries does Sesame Technologies specialize in?</button>
+              </h2>
+              <div class="accordion-collapse collapse show" id="faq-01" data-bs-parent="#faqWrp">
+                <div class="accordion-body">
+                  <p>We serve various sectors, including retail, healthcare, manufacturing, finance, and more, providing tailored software development services to meet industry-specific challenges.</p>
+                </div>
+              </div>
+            </div>
+            <div class="accordion-item">
+              <h2 class="accordion-header">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-02">How does Sesame Technologies ensure the quality of its software development solutions?</button>
+              </h2>
+              <div class="accordion-collapse collapse" id="faq-02" data-bs-parent="#faqWrp">
+                <div class="accordion-body">
+                  <p>Our team follows best practices in coding standards, conducts rigorous testing, and adheres to agile methodologies to deliver high-quality, reliable software.</p>
+                </div>
+              </div>
+            </div>
+            <div class="accordion-item">
+              <h2 class="accordion-header">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-03">Can Sesame Technologies handle end-to-end software development?</button>
+              </h2>
+              <div class="accordion-collapse collapse" id="faq-03" data-bs-parent="#faqWrp">
+                <div class="accordion-body">
+                  <p>Yes, we manage the entire software development lifecycle—from initial consultation and planning to development, deployment, and ongoing support.</p>
+                </div>
+              </div>
+            </div>
+            <div class="accordion-item">
+              <h2 class="accordion-header">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-04">What technologies does Sesame Technologies use?</button>
+              </h2>
+              <div class="accordion-collapse collapse" id="faq-04" data-bs-parent="#faqWrp">
+                <div class="accordion-body">
+                  <p>We utilize a wide range of technologies, including React.js, Node.js, Python, .NET, AWS, and more, to build scalable and efficient software solutions.</p>
+                </div>
+              </div>
+            </div>
+            <div class="accordion-item">
+              <h2 class="accordion-header">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-05">How does Sesame Technologies approach project management?</button>
+              </h2>
+              <div class="accordion-collapse collapse" id="faq-05" data-bs-parent="#faqWrp">
+                <div class="accordion-body">
+                  <p>Our project managers work closely with clients, providing regular updates and ensuring that projects are delivered on time and within budget.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="achieve-sec">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <h4 class="theme-ttl">Achievements</h4>
+          <div class="achieve-sldr">
+            <div class="achieve-item">
+              <p>
+                <i class="icon-wreath-laurel"></i>Recognized as one among the top ten Big data companies in India by open source magazine ( feb 2014 issue) on par with companies like IBM, EMC and other industry leaders.
+              </p>
+            </div>
+            <div class="achieve-item">
+              <p>
+                <i class="icon-wreath-laurel"></i>Listed in Analytics India Online Magazine as a best provider for Big Data and allied Services.
+              </p>
+            </div>
+            <div class="achieve-item">
+              <p>
+                <i class="icon-wreath-laurel"></i>First company in Kerala to provide Big data based solutions (Year 2013).
+              </p>
+            </div>
+            <div class="achieve-item">
+              <p>
+                <i class="icon-wreath-laurel"></i>First in Kerala to develop and implement Online vehicle service booking system (Year 2000).
+              </p>
+            </div>
+            <div class="achieve-item">
+              <p>
+                <i class="icon-wreath-laurel"></i>First in Kerala to develop and implement online sales executive management system (Year 2001).
+              </p>
+            </div>
+            <div class="achieve-item">
+              <p>
+                <i class="icon-wreath-laurel"></i>First in Kerala to develop and implement Online Students information system (Year 2002).
+              </p>
+            </div>
+            <div class="achieve-item">
+              <p>
+                <i class="icon-wreath-laurel"></i>First in Kerala to develop and implement Franchisee management system (Year 2003).
+              </p>
+            </div>
+            <div class="achieve-item">
+              <p>
+                <i class="icon-wreath-laurel"></i>First in Kerala to develop and implement online web based Hall availability system for a reputed auditorium in Kerala.(Year 2003).
+              </p>
+            </div>
+            <div class="achieve-item">
+              <p>
+                <i class="icon-wreath-laurel"></i>Introduced Font streamed Websites first time in Kerala.
+              </p>
+            </div>
+            <div class="achieve-item">
+              <p>
+                <i class="icon-wreath-laurel"></i>Introduced automatic image watermarking in Websites first time in Kerala.
+              </p>
+            </div>
+            <div class="achieve-item">
+              <p>
+                <i class="icon-wreath-laurel"></i>Introduced web based consultation module for Doctors and other professionals.
+              </p>
+            </div>
+            <div class="achieve-item">
+              <p>
+                <i class="icon-wreath-laurel"></i>Developed and implemented Successfully Web based Subscription and Advertisement booking and management system for a leading News Paper.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <footer>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6 col-lg-4 ftr-info">
+          <h4>Sales Enquiries</h4>
+          <ul>
+            <li>
+              <i class="icon-envelope"></i>sales@sesametechnologies.net
+            </li>
+            <li>
+              <i class="icon-phone"></i>+91 9349138146, +91 9072606055
+            </li>
+            <li>
+              <i class="icon-whatsapp"></i>+91 9349138146
+            </li>
+          </ul>
+        </div>
+        <div class="col-md-6 col-lg-4 ftr-info">
+          <h4>Customer Support</h4>
+          <ul>
+            <li>
+              <i class="icon-envelope"></i>websupport@sesametechnologies.net
+            </li>
+            <li>
+              <i class="icon-phone"></i>+91 9072991155 , +91 8138904567
+            </li>
+          </ul>
+        </div>
+        <div class="col-md-6 col-lg-4 ftr-info">
+          <h4>Administration</h4>
+          <ul>
+             <li>
+              <i class="icon-envelope"></i>hr@sesametechnologies.net
+            </li>
+            <li>
+              <i class="icon-envelope"></i>admin@sesametechnologies.net
+            </li>
+            <li>
+              <i class="icon-phone"></i>+91 9387160002
+            </li>
+          </ul>
+        </div>
+      </div>
+      <hr class="divider">
+      <div class="row">
+        <div class="col-md-6 ftr-decr">
+          <h4>Member</h4>
+          <ul>
+            <li>
+              <img src="assets/img/logo/cafit.webp" alt="">
+            </li>
+            <li>
+              <img src="assets/img/logo/msme.webp" alt="">
+            </li>
+            <li>
+              <img src="assets/img/logo/tie-kerala.webp" alt="">
+            </li>
+          </ul>
+        </div>
+        <div class="col-md-6 ftr-decr">
+          <h4>Featured in</h4>
+          <ul>
+            <li>
+              <img src="assets/img/logo/aim.webp" alt="">
+            </li>
+            <li>
+              <img src="assets/img/logo/cr.webp" alt="">
+            </li>
+            <li>
+              <img src="assets/img/logo/osfy.webp" alt="">
+            </li>
+          </ul>
+        </div>
+      </div>
+      <hr class="divider">
+      <div class="row">
+        <div class="col-md-6 col-lg-4 ftr-adrs">
+          <h4>Address ( HO )</h4>
+          <address>
+            <strong>Sesame Technologies Pvt Ltd</strong>
+            <br>#1712, 7th Floor,
+            <br>HiLITE Business Park,
+            <br>NH Bypass Road,
+            <br>Calicut - 673014
+          </address>
+          <p>
+            <i class="icon-envelope"></i>info@sesametechnologies.net
+          </p>
+        </div>
+        <div class="col-md-6 col-lg-4 ftr-links">
+          <h4>Quick Links</h4>
+          <ul>
+            <li>
+              <a href="clients">Clients</a>
+            </li>
+            <li>
+              <a href="career">Careers</a>
+            </li>
+            <li>
+              <a href="javascript:void(0)">Gallery</a>
+            </li>
+            <li>
+              <a href="javascript:void(0)">Case Studies</a>
+            </li>
+            <li>
+              <a href="javascript:void(0)">News &amp; Events</a>
+            </li>
+            <li>
+              <a href="https://www.sesametechnologies.net/blog/" target="_blank">Blog</a>
+            </li>
+            <li>
+              <a href="javascript:void(0)">CSR</a>
+            </li>
+          </ul>
+        </div>
+        <div class="col-md-6 col-lg-4 ftr-media">
+          <h4>Follow Us</h4>
+          <ul>
+            <li>
+              <a href="https://www.facebook.com/Sesametech/" target="_blank" title="Facebook">
+                <i class="icon-facebook"></i>
+              </a>
+            </li>
+            <li>
+              <a href="https://www.instagram.com/sesametechnologies/" target="_blank" title="Instagram">
+                <i class="icon-instagram"></i>
+              </a>
+            </li>
+            <li>
+              <a href="https://www.linkedin.com/company/sesame-technologies-pvt-ltd" target="_blank" title="Linkedin">
+                <i class="icon-linkedin"></i>
+              </a>
+            </li>
+            <li>
+              <a href="https://x.com/sesametech?lang=en" target="_blank" title="X">
+                <i class="icon-x-twitter"></i>
+              </a>
+            </li>
+            <li>
+              <a href="https://www.youtube.com/@sesametechnologies" target="_blank" title="Youtube">
+                <i class="icon-youtube"></i>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="ftr-bottom">
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <p>Copyright ©
+              <script type="text/JavaScript">document.write(new Date().getFullYear());</script>, Sesame Technologies Pvt Ltd. All Rights Reserved.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+  <div class="sticky-widget">
+    <div class="whatsapp-connect">
+      <a href="https://wa.me/919349138146?text=Hello%20!" title="WhatsApp" target="_blank">
+        <i class="icon-whatsapp"></i>
+      </a>
+    </div>
+    <button type="button" class="back-to-top" title="Back to Top">
+      <i class="icon-arrow-up"></i>
+    </button>
+  </div>  
+
+  <div class="modal fade enq-modal" id="enquiryModal">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+      <div class="modal-content">
+        <div class="modal-body p-0">
+          <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+          <div class="row g-0">
+            <div class="col-md-4 ttl-wrpr">
+              <h3>We're here to help
+              </h3>
+              <p>Please complete this form to be connected by one of our experts.</p>
+              <img src="assets/img/shapes/questions.svg" alt="Get a Free Consultation">
+            </div>
+            <div class="col-md-8">
+              <div class="form-wrpr">
+              <form class="contact-btn-popup-form" method="post" id="form-contact" action="">
+                <div class="row g-3">
+                  
+                    <div class="col-12">
+                      <input type="text" class="form-control" placeholder="Name*" id="name" name="name" maxlength="100">
+                      <input type="hidden" name="captcha" id="g-recaptcha-response">
+                    </div>
+                    <div class="col-12">
+                      <input type="email" class="form-control" placeholder="Email ID*" id="email" name="email" placeholder="Email" maxlength="100">
+                    </div>
+                    <div class="col-12">
+                      <input type="tel" class="form-control number-only" placeholder="Phone Number*" name="phone" id="phone" minlength="9" maxlength="14">
+                    </div>
+                    <div class="col-12">
+                      <textarea class="form-control" rows="4" placeholder="Enter Message*" name="message" maxlength="240"></textarea>
+                    </div>
+                    <div class="col-12">
+                      <!-- <button type="submit" class="btn btn-primary">Submit</button> -->
+                    
+                      <button type="submit" class="btn btn-primary">Send Message</button>
+                        <div id="myDiv2">
+                          <img id="loading-image2" src="assets/img/loading/ajax-loader.gif" style="display:none;"/>
+                        </div>
+          
+                        <div class="form-group msg"></div> 
+                    </div>
+                </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="assets/js/jquery.min.js"></script>
+  <script src="assets/js/plugins.min.js"></script>
+  <script src="assets/js/app.min.js"></script>
+  <script src="assets/js/jquery.validate.min.js"></script>
+  <script src="assets/js/custom_script.js"></script>
+
+  <script>
+    $(document).ready(function () {
+      $('.contact-btn-popup').on('click', function () {
+        $('#enquiryModal').modal('show'); // Show the modal when the button is clicked
+      });
+    });
+  </script>
+
+<script>
+    $(document).ready(function () {
+      $.ajax({
+        url: 'fetch-blogs.php', // Use the full path if needed
+        method: 'GET',
+        dataType: 'json',
+        success: function (data) {
+          if (data.blogs) {
+            let newsHtml = '';
+            data.blogs.forEach(function (blog) {
+              newsHtml += `
+                <a href="/blog${blog.url}" target="_blank" class="news-item">
+                  <div class="img-wrpr">
+                    <div class="img-tmb">
+                      <img src="${blog.image}" alt="News thumbnail">
+                      <div class="overlay">
+                        <i class="icon-arrow-up-right"></i>
+                      </div>
+                    </div>
+                    <div class="news-date">${blog.date}</div>
+                  </div>
+                  <div class="news-body">
+                    <h5>${blog.title}</h5>
+                    <p>${blog.description}...</p>
+                  </div>
+                  <div class="news-footer">
+                    <span>Read More <i class="icon-chevron-right"></i></span>
+                  </div>
+                </a>`;
+            });
+            $('#news-container').html(newsHtml);
+
+            $('#news-container').slick({
+              infinite: true,
+              slidesToShow: 3,
+              slidesToScroll: 1,
+              autoplay: true,
+              pauseOnFocus: false,
+              pauseOnHover: false,
+              responsive: [
+                {
+                  breakpoint: 900,
+                  settings: {
+                    slidesToShow: 2
+                  }
+                },
+                {
+                  breakpoint: 767,
+                  settings: {
+                    slidesToShow: 1
+                  }
+                }
+              ]
+            });
+
+          } else {
+            $('#news-container').html('<p>No blogs found.</p>');
+          }
+        },
+        error: function (xhr, status, error) {
+          console.error('AJAX Error:', status, error);
+          $('#news-container').html('<p>Failed to load blogs. Please try again later.</p>');
+        }
+      });
+    });
+  </script>
+</body>
+
+</html>
